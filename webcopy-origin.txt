@@ -1,0 +1,276 @@
+Uri: https://cdn.guicheweb.com.br/gw-bucket/imagens/gwload.svg
+File Name: C:\Downloaded Web Sites\guieventos.shop\gw-bucket\imagens\gwload.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.guicheweb.com.br/gw-bucket/imagenseventos/26-05-2025_17-19-13.jpg
+File Name: C:\Downloaded Web Sites\guieventos.shop\gw-bucket\imagenseventos\26-05-2025_17-19-13.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.guicheweb.com.br/gw-bucket/responsivo/imgs/borderticket.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\gw-bucket\responsivo\imgs\borderticket.png
+Content Type: image/png
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\scripts\utms\latest.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\guieventos.shop\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\lato\v15\S6u9w4BMUTPHh6UVSwaPGR_p.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v15/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\lato\v15\S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjx4wXg.woff2
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\lato\v15\S6uyw4BMUTPHjx4wXg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/lato/v15/S6uyw4BMUTPHjxAwXjeu.woff2
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\lato\v15\S6uyw4BMUTPHjxAwXjeu.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/materialicons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\materialicons\v142\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v215/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsLjBuVY.woff2
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\materialsymbolsoutlined\v215\kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oFsLjBuVY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v30/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\guieventos.shop\s\montserrat\v30\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\index.htm
+Content Type: text/html
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/%40phosphor-icons/web%402.1.2/src/index.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\@phosphor-icons\web@2.1.2\src\index.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/css2-1?family=Open+Sans:wght@300&display=swap
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\css2-1
+Content Type: 
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/css2?family=Roboto:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\css2
+Content Type: 
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/bootstrap4.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\bootstrap4.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/jquery-confirm3.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\jquery-confirm3.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/jquery-ui.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\jquery-ui.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/gwFramework/plugins/jquery-ui.theme.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\gwFramework\plugins\jquery-ui.theme.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/mapas/26-05-2025_21-09-18.jpg
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\mapas\26-05-2025_21-09-18.jpg
+Content Type: image/jpeg
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/responsivo/imgs/en.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\responsivo\imgs\en.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/responsivo/imgs/es.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\responsivo\imgs\es.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gw-bucket/responsivo/imgs/pt.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gw-bucket\responsivo\imgs\pt.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gwFramework/plugins/bootstrap4.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gwFramework\plugins\bootstrap4.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gwFramework/plugins/fontawesome-all.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gwFramework\plugins\fontawesome-all.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gwFramework/plugins/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gwFramework\plugins\jquery-3.3.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gwFramework/plugins/jquery-confirm3.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gwFramework\plugins\jquery-confirm3.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gwFramework/plugins/jquery-ui-1.12.4.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gwFramework\plugins\jquery-ui-1.12.4.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/gwFramework/plugins/vue.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\gwFramework\plugins\vue.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/imagenseventos/26-05-2025_17-19-17.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\imagenseventos\26-05-2025_17-19-17.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/imagenseventos/cacaushow.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\imagenseventos\cacaushow.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/imagenseventos/image.jpg
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\imagenseventos\image.jpg
+Content Type: image/jpeg
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/nova_marca/gw_favcon.png
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\nova_marca\gw_favcon.png
+Content Type: image/png
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/npm/axios/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\npm\axios\dist\axios.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/react/babel.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\react\babel.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/react/material-ui.development.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\react\material-ui.development.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/react/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\react\react-dom.production.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/react/react.production.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\react\react.production.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/2019/js/axios.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\2019\js\axios.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/css/assentos.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\css\assentos.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/css/default.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\css\default.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/css/ingressos.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\css\ingressos.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/css/novo_ingressos.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\css\novo_ingressos.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/css/themes/gw.min.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\css\themes\gw.min.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/js/components/ingressos/countdownnovo.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\js\components\ingressos\countdownnovo.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/js/components/menu_gw.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\js\components\menu_gw.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/js/engine.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\js\engine.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/js/frameworks/vue-currency-filter.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\js\frameworks\vue-currency-filter.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/js/ingressos.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\js\ingressos.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/layout_plus/includes/js/joker_header.min.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\layout_plus\includes\js\joker_header.min.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/privacidade/aviso.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\privacidade\aviso.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/sac/chat.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\sac\chat.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/ui/doacao/index.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\ui\doacao\index.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/ui/footer/index.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\ui\footer\index.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/ui/footer/index.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\ui\footer\index.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/ui/theme/guicheweb.theme.js
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\ui\theme\guicheweb.theme.js
+Content Type: application/x-javascript
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/ui/theme/icon-css.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\ui\theme\icon-css.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/responsivo/ui/theme/materialIcons.css
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\responsivo\ui\theme\materialIcons.css
+Content Type: text/css
+
+Uri: https://guieventos.shop/henrique-e-juliano-itajai/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\guieventos.shop\henrique-e-juliano-itajai\translate_a\element.js
+Content Type: application/x-javascript
+
