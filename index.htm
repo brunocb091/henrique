@@ -385,41 +385,7 @@
       top: 0 !important;
     }
   </style>
-  <!-- MENU LINGUAGEM -->
-  <style type="text/css">
-    .octadesk-octachat-app {
-      z-index: 1 !important;
-    }
-
-    .svg-stories {
-      z-index: 1 !important;
-    }
-
-    .LanguageMenu {
-      max-width: 500px;
-      min-width: 32px;
-      background: #000000;
-      border-radius: 10px;
-    }
-
-    .img_bandeira_active {
-      margin-left: 0.8rem;
-      border-radius: 15px;
-    }
-
-    .LanguageMenuItem:hover {
-      background: #000000;
-    }
-
-    .img_bandeira {
-      border-radius: 15px;
-    }
-    .LanguageMenuItem {
-      width: 55px;
-      background: #000000;
-    }
-  </style>
-
+ 
   <body>
     <div id="app_gw">
       <!-- MENU COMPONENTE VUE -->
@@ -3026,32 +2992,7 @@
           function loadImage(igmName) {
               const urlImage = 'https://cdn.guicheweb.com.br/gw-bucket/imagenseventos/'
               return `${urlImage}${igmName}`;
-          }
-
-          function App() {
-              const redirect = "\/login?pg=participante?";
-              const id_evento = "36213";
-              const session = {"empresa":{"id":"1","nome":"Guichê Web","css":"https:\/\/cdn.guicheweb.com.br\/gw-bucket\/imagens\/css_empresas\/gw.css","fac":"https://youtu.be/BcTpDt9ZOWM,"link_twitter":"https:\/\/twitter.com\/guicheweb","app_android":"https:\/\/play.google.com\/store\/apps\/details?id=br.com.guicheweb","app_ios":"https:\/\/itunes.apple.com\/us\/app\/guich%C3%AA-web\/id1322189354?l=pt&amp;ls=1&amp;mt=8","cor_navbar":"#000000","favicon":"https:\/\/s3.guicheweb.com.br\/nova_marca\/gw_favcon.png","RODAPE_ABRAPE":"https:\/\/abrape.com.br\/","RODAPE_DUVIDAS":"https:\/\/guicheweb.octadesk.com\/kb","RODAPE_SEGURANCA":"<p style=\"color: rgb(33, 37, 41); font-family: Lato;\">Sabemos o quanto sua segurança e sua privacidade são importantes e nos preocupamos muito com isso. Para garantir a sua tranquilidade, o Guichê Web segue todas as normas e compromissos que o PAGSEGURO estabelece para garantir sua privacidade dos clientes.<br><br>Com relação aos seus dados pessoais de endereçamento, pagamento e conteúdo do pedido, fique certo de que não serão utilizados para outros fins que não o de processamento dos pedidos realizados, não sendo portanto divulgados em hipótese alguma.<\/p><p style=\"color: rgb(33, 37, 41); font-family: Lato;\"><b>Como armazenamos suas informações?<\/b><\/p><p style=\"color: rgb(33, 37, 41); font-family: Lato;\">Para sua maior segurança, os dados cadastrais são armazenados em um banco de dados com acesso restrito em ambiente seguro.<\/p><p style=\"color: rgb(33, 37, 41); font-family: Lato;\"><b>Como garantimos sua segurança?<\/b><\/p><p style=\"color: rgb(33, 37, 41); font-family: Lato;\">Todas as suas informações pessoais são enviadas de forma criptografada para o site da operadora de crédito responsável pelos pagamentos, que utiliza tecnologias e práticas mais modernas de pagamento com as operadoras de cartão de crédito, de forma que os seus dados de cartão de crédito não ficam arquivados pela empresa, sendo enviados diretamente para a operadora de cartão de crédito.<\/p><p style=\"color: rgb(33, 37, 41); font-family: Lato;\"><b>Quem tem acesso aos meus dados cadastrais?<\/b><\/p><p style=\"color: rgb(33, 37, 41); font-family: Lato;\">Seus dados cadastrais são acessados somente por nossa equipe de atendimento e\/ou da empresa operadora de crédito responsável pelos pagamentos.<\/p>","RODAPE_TERMO":"https:\/\/guicheweb.notion.site\/Termos-Pol-ticas-b5713f88c432496a8cb3683da9be7dfd"},"cupom_rapido":null,"ce":null,"UrlRedirect":"ingressos\/36213","evento":"36213","gw_csrf_token":"fce43683ac96c894310f09d48483a2bb"};
-              const carrinho = session.carrinho;
-              const [openModal, setOpenModal] = useState(true);
-              const [ingressos, setIngressos] = useState(null);
-              const [quantidades, setQuantidades] = useState({});
-
-              const getData = async () => {
-                  window.loading()
-
-                  try {
-                      let dados = new FormData();
-                      dados.append("a", "sugestao_ingresso");
-                      dados.append("id_evento", id_evento);
-
-                      const url = '/webservices/api/services/ingressos.php';
-                      const resp = await axios.post(url, dados);
-                      console.log("resp", resp);
-
-                      if (resp.data.ings_datas.length === 0) {
-                          window.location.href = redirect
-                          return
+         
                       }
                       setIngressos(resp.data.ings_datas);
                       window.unloading()
@@ -3481,48 +3422,7 @@
       href="css2?family=Roboto:wght@300;400;500;600;700&display=swap"
     />
     <script type="text/javascript" src="responsivo/ui/theme/guicheweb.theme.js"></script>
-    <script type="text/javascript">
-      const dataFooter = {
-        id_empresa: "1",
-        empresa: "Guichê Web",
-        css: "https:\/\/cdn.guicheweb.com.br\/gw-bucket\/imagens\/css_empresas\/gw.css",
-        fac: "https:\/\/guicheweb.octadesk.com\/kb",
-        link_termo: "https:\/\/guicheweb.octadesk.com\/kb\/section\/termos-e-politicas",
-        logosite: "https:\/\/s3.guicheweb.com.br\/nova_marca\/logogw.png",
-        logo: "logo_guicheweb-p.png",
-        dominio: "www.guicheweb.com.br",
-        razao_social: "Guichê Web Comercialização de Ingressos Ltda",
-        cnpj: "18.797.249\/0001-35",
-        link_instagram: "https:\/\/instagr.am\/guicheweb",
-        link_facebook: "https:\/\/www.facebook.com\/GuicheWeb\/?fref=ts",
-        link_youtube: "https:\/\/www.youtube.com\/channel\/UC9-7SFPICgrmnZRXhmpFVug",
-        link_twitter: "https:\/\/twitter.com\/guicheweb",
-        app_android: "https:\/\/play.google.com\/store\/apps\/details?id=br.com.guicheweb",
-        app_ios:
-          "https:\/\/itunes.apple.com\/us\/app\/guich%C3%AA-web\/id1322189354?l=pt&amp;ls=1&amp;mt=8",
-        cor_nav: "#000000",
-        favicon: "https:\/\/s3.guicheweb.com.br\/nova_marca\/gw_favcon.png",
-      };
-      const abrape = { chave: "RODAPE_ABRAPE", resposta: "https:\/\/abrape.com.br\/" };
-
-      window.dados_empresa = {
-        link_instagram: dataFooter.link_instagram,
-        link_facebook: dataFooter.link_facebook,
-        link_youtube: dataFooter.link_youtube,
-        link_twitter: dataFooter.link_twitter,
-        fac: dataFooter.fac,
-        link_termo: dataFooter.link_termo,
-        dominio: dataFooter.dominio,
-        abrape: abrape?.resposta || "",
-        app_ios: dataFooter.app_ios,
-        app_android: dataFooter.app_android,
-        logo: dataFooter.logo,
-        cnpj: dataFooter.cnpj,
-        link_blog: "https://blog.guicheweb.com.br/",
-        nome_empresa: dataFooter.empresa,
-        razao_social: dataFooter.razao_social,
-      };
-    </script>
+   
 
     <div id="ui_footer"></div>
 
